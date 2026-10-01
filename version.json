@@ -1,0 +1,11 @@
+{
+  "versionCode": 11,
+  "versionName": "1.0.1",
+  "downloadUrl": "https://rvhrakotonaina-tech.github.io/Money-tracker-app/",
+  "releaseNotes": [
+    "Added Loans & Debts",
+    "Enabled cross platform (Android, iOS)",
+    "Improved AI assistant",
+    "Fixed bugs and performance issues"
+  ]
+}
